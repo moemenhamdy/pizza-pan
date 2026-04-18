@@ -17,6 +17,7 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
+  metadataBase: new URL("https://pizza-pan-prototype.netlify.app"),
   title: "Pizza Pan | بيتزا بان — أحلى بيتزا في كفر الشيخ",
   description:
     "Pizza Pan — Fast food restaurant in Kafr El Sheikh, Egypt. Pizza, Crepe, Pies, Bombs and more. Order now: 15616. بيتزا بان — كفر الشيخ. بيتزا، كريب، فطير، قنابل وأكتر. اطلب دلوقتي: 15616",
@@ -32,23 +33,50 @@ export const metadata: Metadata = {
     "crepe",
     "Kafr El Sheikh",
     "fast food",
+    "restaurant",
   ],
+  authors: [{ name: "Pizza Pan" }],
+  creator: "Pizza Pan",
+  alternates: {
+    canonical: "/",
+    languages: {
+      "en-US": "/en",
+      "ar-EG": "/ar",
+    },
+  },
   openGraph: {
     title: "Pizza Pan | بيتزا بان",
     description:
       "عِشره بقالها سنين ومكملين — أحلى بيتزا في كفر الشيخ. اطلب دلوقتي 15616",
+    url: "https://pizza-pan-prototype.netlify.app",
     type: "website",
     locale: "ar_EG",
     alternateLocale: "en_US",
     siteName: "Pizza Pan",
     images: [
       {
-        url: "/images/cover.jpg",
+        url: "/images/banner.jpg",
         width: 1200,
         height: 630,
         alt: "Pizza Pan — Food Showcase",
       },
     ],
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "Pizza Pan | بيتزا بان",
+    description: "عِشره بقالها سنين ومكملين — أحلى بيتزا في كفر الشيخ. اطلب دلوقتي 15616",
+    images: ["/images/banner.jpg"],
+  },
+  robots: {
+    index: true,
+    follow: true,
+    googleBot: {
+      index: true,
+      follow: true,
+      "max-image-preview": "large",
+      "max-snippet": -1,
+    },
   },
 };
 
