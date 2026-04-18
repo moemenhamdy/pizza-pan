@@ -1,0 +1,73 @@
+{
+  "nav": {
+    "home": "الرئيسية",
+    "menu": "المنيو",
+    "branches": "فروعنا",
+    "contact": "تواصل معنا"
+  },
+  "hero": {
+    "tagline": "عِشره بقالها سنين ومكملين",
+    "subtitle": "أحلى بيتزا في كفر الشيخ",
+    "viewMenu": "شوف المنيو",
+    "callUs": "اتصل بينا",
+    "orderNow": "اطلب دلوقتي"
+  },
+  "menu": {
+    "title": "المنيو",
+    "subtitle": "اختار من تشكيلتنا الكبيرة",
+    "sizes": {
+      "mini": "ميني",
+      "small": "صغير",
+      "medium": "وسط",
+      "large": "كبير"
+    },
+    "currency": "ج.م",
+    "new": "جديد"
+  },
+  "branches": {
+    "title": "فروعنا",
+    "subtitle": "تلاقينا في أكتر من مكان",
+    "mainBranch": "الفرع الرئيسي",
+    "locations": {
+      "kafrElSheikh": {
+        "name": "كفر الشيخ",
+        "address": "شارع الشهيد محمد الدمرداش المتفرع من ابراهيم المغازي",
+        "city": "كفر الشيخ"
+      },
+      "deltaLagoons": {
+        "name": "دلتا لاجونز",
+        "address": "دلتا لاجونز",
+        "city": "كفر الشيخ"
+      },
+      "damanhour": {
+        "name": "دمنهور",
+        "address": "دمنهور",
+        "city": "دمنهور"
+      }
+    },
+    "services": {
+      "outdoor": "جلسات خارجية",
+      "roadside": "استلام من السيارة",
+      "instore": "استلام من الفرع"
+    }
+  },
+  "contact": {
+    "title": "تواصل معنا",
+    "subtitle": "احنا هنا عشانك",
+    "hotline": "الخط الساخن",
+    "address": "العنوان",
+    "followUs": "تابعنا",
+    "services": "خدماتنا"
+  },
+  "footer": {
+    "rights": "جميع الحقوق محفوظة",
+    "madeWith": "صُنع بـ ❤️"
+  },
+  "theme": {
+    "light": "فاتح",
+    "dark": "داكن"
+  },
+  "lang": {
+    "switch": "English"
+  }
+}

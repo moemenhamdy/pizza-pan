@@ -1,0 +1,73 @@
+{
+  "nav": {
+    "home": "Home",
+    "menu": "Menu",
+    "branches": "Branches",
+    "contact": "Contact"
+  },
+  "hero": {
+    "tagline": "10 Years & Still Going Strong",
+    "subtitle": "The Best Pizza in Kafr El Sheikh",
+    "viewMenu": "View Menu",
+    "callUs": "Call Us",
+    "orderNow": "Order Now"
+  },
+  "menu": {
+    "title": "Our Menu",
+    "subtitle": "Choose from our wide selection",
+    "sizes": {
+      "mini": "Mini",
+      "small": "Small",
+      "medium": "Medium",
+      "large": "Large"
+    },
+    "currency": "EGP",
+    "new": "NEW"
+  },
+  "branches": {
+    "title": "Our Branches",
+    "subtitle": "Find us near you",
+    "mainBranch": "Main Branch",
+    "locations": {
+      "kafrElSheikh": {
+        "name": "Kafr El Sheikh",
+        "address": "El Shaheed Mohamed El Damrdash St., off Ibrahim El Moghazi",
+        "city": "Kafr El Sheikh"
+      },
+      "deltaLagoons": {
+        "name": "Delta Lagoons",
+        "address": "Delta Lagoons",
+        "city": "Kafr El Sheikh"
+      },
+      "damanhour": {
+        "name": "Damanhour",
+        "address": "Damanhour",
+        "city": "Damanhour"
+      }
+    },
+    "services": {
+      "outdoor": "Outdoor Seating",
+      "roadside": "Roadside Collection",
+      "instore": "In-store Collection"
+    }
+  },
+  "contact": {
+    "title": "Contact Us",
+    "subtitle": "We're here for you",
+    "hotline": "Hotline",
+    "address": "Address",
+    "followUs": "Follow Us",
+    "services": "Our Services"
+  },
+  "footer": {
+    "rights": "All rights reserved",
+    "madeWith": "Made with ❤️"
+  },
+  "theme": {
+    "light": "Light",
+    "dark": "Dark"
+  },
+  "lang": {
+    "switch": "العربية"
+  }
+}
